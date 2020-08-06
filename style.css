@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#bg-menu {
+    background-color: #0998D4;
+    height: 50px;
+    ;
+}
+
+#menu {
+    width: 1170px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#ul-menu {
+    list-style-type: none;
+    display: flex;
+}
+
+#ul-menu li {
+    padding-left: 20px;
+}
+
+#right-menu {
+    padding-right: 20px;
+}
+
+#ul-menu li a {
+    text-decoration: none;
+}
+
+#slogen {
+    background-color: #EEEEEE;
+}
+
+#slogen{
+    height: 202px;
+    padding: 10px;
+}
+#slogen-nua-tren {
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    width: 457px;
+    height: 100px;
+}
+
+#intro {
+    width: 1170px;
+    margin: 0 auto;
+    
+    font-family: Helvetica;
+    font-size: 13.5pt;
+    padding-top: 5px;
+}
+
+#phan-chinh{
+    display: flex;
+    width: 1170px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.tieu-de-bai-viet{
+    display: inline;
+}
+
+.content-chinh{
+    width: 755px;
+    border: 2px #e2e2e2 solid;
+}
+
+.cac-mau-tin-chinh-trai{
+    width: 495px;
+}
+
+.poster-lon{
+    width: 490px;
+}
+
+.poster-thu-nho{
+    width: 30px; height: 30px;
+    float: left; /*Ảnh chiếm 2 dòng*/
+}
+
+.cac-mau-tin-chinh{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cach-day{
+    background-color: #0998D4;
+    color: white;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+
+.mau-tin-phai{
+    display: flex; /*Sao ko dùng block dc? */
+    margin-bottom: 5px;
+}
+
+h2{
+    background-color: #f5f5f5;
+    border-bottom: 2px #e2e2e2 solid;
+}
