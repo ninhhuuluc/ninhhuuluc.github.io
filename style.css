@@ -81,6 +81,7 @@
 .content-chinh{
     width: 755px;
     border: 2px #e2e2e2 solid;
+    margin-bottom: 15px;
 }
 
 .cac-mau-tin-chinh-trai{
@@ -117,4 +118,8 @@
 h2{
     background-color: #f5f5f5;
     border-bottom: 2px #e2e2e2 solid;
+}
+
+.canh-dan-deu{
+    text-align: justify;
 }
