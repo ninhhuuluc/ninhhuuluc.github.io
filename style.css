@@ -90,6 +90,7 @@
 
 .poster-lon{
     width: 490px;
+    margin-bottom: 15px;
 }
 
 .poster-thu-nho{
@@ -122,4 +123,13 @@ h2{
 
 .canh-dan-deu{
     text-align: justify;
+}
+
+.cac-mau-tin-chinh-trai{
+    margin: 10px;
+}
+
+.cac-mau-tin-chinh-phai{
+    text-align: justify;
+    margin: 10px;
 }
